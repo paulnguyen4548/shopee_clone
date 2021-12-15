@@ -1,0 +1,28 @@
+/* giao dien truoc khi đăng nhập */
+
+/* .tosale{
+    display: block;
+}
+.notice_list_logged,
+.topheader_account_logined,
+.mainheader_cart_logined{
+    display: none;
+}  
+ */
+
+
+/* ------------------------------------------------------------------ */
+
+/* Giao diệnkhi đã đăng nhập */
+
+
+.tosale,
+.notice_list_notLoggin,
+.topheader_account_notlogin,
+.mainheader_cart_notlogin{
+    display: none;
+}
+
+
+
+/* ------------------------------------------------------------------ */

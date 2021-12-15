@@ -1,0 +1,19 @@
+
+.test {
+    width: 28px;
+    height: 16px;
+    background-color: #d0011b;
+    position: relative;
+    border-radius: 0 3px 3px 0;
+}
+.test::after {
+    content: "";
+    background-color: black;
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 4px;
+    height: 4px;
+    background: linear-gradient(
+45deg, #fff 50%, #7d0110 50%);
+}

@@ -1,0 +1,10 @@
+bug
+
+muc account của tôi							--->OK	
+menu giỏ hàng -- click icon ra link shop	--->OK
+danh muc shop giảm chữ nhỏ lại		--->OK
+addlink logo shopee					--->OK 		link to div		onclick="location.href='index.html'"
+sort theo giá						--->OK
+trừ tim ra thì đề click vô ra link sản phẩm 
+ảnh sản phẩm center					--> OK background size cover
+chữ tràn ra đổi thành ...			--> OK
